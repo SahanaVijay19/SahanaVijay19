@@ -3,7 +3,7 @@
 I am an aspiring AI/ML Engineer with hands-on experience in end-to-end machine learning workflows, from data preprocessing to model deployment,
 following the CRISP-DM framework. I am skilled in harnessing Python libraries (NumPy, Keras, Pandas, Scikit-learn, etc.) and C/C++ data structures to build scalable solutions. I have applied machine learning solutions across different domains such as technology, education, and business to drive data-driven innovation. As a Break Through Tech AI Fellow, I am gaining invaluable Data Science and ML expertise, especially harnessing Neural Networks for NLP and Computer Vision tasks. In the future, I plan to further explore the various applications of neural networks!
 
-The subscript <sub> text </sub> is here.
+
 <!--
 **SahanaVijay19/SahanaVijay19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
