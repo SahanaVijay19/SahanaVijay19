@@ -8,8 +8,11 @@ following the CRISP-DM framework. I am skilled in harnessing Python libraries an
 # 🎯 Recent Project: Sentiment Analysis of Book Reviews
 
 What I did: Implemented a Sentiment Analysis model for book reviews using FFNs 
-Tools: Python, Keras, Scikit-learn, Numpy, Pandas
-Results: After model selection, my final model has an accuracy of 0.80 (2 d.p.)
+
+Tools: Jupyter Notebooks, Python, Keras, Scikit-learn, Numpy, Pandas
+
+Results: After model selection, my final model had an accuracy of 0.80 (2 d.p.)
+
 Project README/repo: https://github.com/SahanaVijay19/sentiment-analysis-book-reviews
 
 # 🛠 Tech Stack:
