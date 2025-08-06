@@ -1,10 +1,19 @@
 # Hi there 👋, my name is Sahana Vijay.
 ### 🎓 Senior at UC Santa Cruz, majoring in Cognitive Science and minoring in Computer Science. 
 ### 🔭 Aspiring AI/ML Engineer and Data Scientist
+
 At heart, I am a researcher who is passionate about outreach, neuroscience, and machine learning. I possess hands-on experience in end-to-end machine learning workflows, from data preprocessing to model deployment,
 following the CRISP-DM framework. I am skilled in harnessing Python libraries and C/C++ data structures to build scalable solutions. I have applied machine learning solutions across different domains such as technology, education, and business to drive data-driven innovation. As a Breakthrough Tech AI Fellow, I am gaining invaluable Data Science and ML expertise, especially in harnessing Neural Networks for NLP and Computer Vision. In the future, I plan on further exploring neural networks and expanding my general ML expertise!
 
+# 🎯 Recent Project: Sentiment Analysis of Book Reviews
+
+What I did: Implemented a Sentiment Analysis model for book reviews using FFNs 
+Tools: Python, Keras, Scikit-learn, Numpy, Pandas
+Results: After model selection, my final model has an accuracy of 0.80 (2 d.p.)
+Project README/repo: https://github.com/SahanaVijay19/sentiment-analysis-book-reviews
+
 # 🛠 Tech Stack:
+
 Languages: Python, C, C++
 
 Data Science: Pandas, NumPy, Scikit-learn, Keras, Matplotlib, Seaborn
@@ -16,6 +25,7 @@ Tools: Jupyter Notebooks, GitHub
 Others: Markdown (basic), and Linux CLI (basic).
 
 # 📫 How to reach me:
+
 Email: sahana9vijay@gmail.com
 
 Phone Number: 408-462-2544
