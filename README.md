@@ -16,15 +16,17 @@ At heart, I am a **researcher** who is passionate about **outreach**, **neurosci
 
 # 🛠 Tech Stack:
 
-**Languages**: Python, C, C++
+**Languages**: Python, C, C++, RISC-V 
 
 **Data Science**: Pandas, NumPy, Scikit-learn, Keras, Matplotlib, Seaborn
 
 **Web Dev and Graphics**: Django, Cairo Graphics, Tkinter
 
-**Tools**: Jupyter Notebooks, GitHub
+**Databases**: MySQL
 
-**Others**: Markdown (basic), and Linux CLI (basic).
+**Tools**: Jupyter Notebooks, Google Colab, GitHub
+
+**Others**: Markdown, Linux CLI 
 
 # 📫 How to reach me:
 
