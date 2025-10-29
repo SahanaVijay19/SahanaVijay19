@@ -12,7 +12,7 @@ At heart, I am a **researcher** who is passionate about **outreach**, **neurosci
 
 **Results**: Stay tuned for the results in December!
 
-**Project README/repo**: https://github.com/SahanaVijay19/skinterest-tech-analytics
+**Project README/repo**: https://github.com/SahanaVijay19/skinterest_tech_analytics
 
 # 🎯 My previous Project: Sentiment Analysis of Book Reviews
 
